@@ -1,1 +1,2 @@
-# NLP-Project
+# NLP-Project on Token-Level Multi-Class Classification
+This project addresses the need to systematically compare different neural architectures for NER by evaluating four distinct recurrent network models under consistent conditions. The project employs the BIO (Beginning, Inside, Outside) tagging scheme for precise entity boundary detection, framing NER as a token-level classification problem that leverages sequential learning to capture word-context relationships. The work provides insights into how architectural choices affect NER performance, revealing trade-offs between model complexity, computational efficiency, and accuracy.
